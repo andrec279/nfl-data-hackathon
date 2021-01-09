@@ -14,4 +14,7 @@ This repo contains jupyter notebooks and code I submitted to a hackathon I parti
 - Total lack of football knowledge
 - Time needed to familiarize with AWS Environment
 
-Solution is described in detail in Jupyter Notebooks.
+<b>How to Navigate Repo:</b>
+- Solution is detailed in "Code" folder in Jupyter Notebooks
+- Snippets of original NFL tracking data is available in "SampleInputData" folder
+- Code includes an ETL script which loads NFL tracking data into usable data for analysis, found in "ETLOutput" folder
